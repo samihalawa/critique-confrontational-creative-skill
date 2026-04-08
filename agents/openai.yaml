@@ -1,4 +1,4 @@
 interface:
-  display_name: "Confrontational Creativity Engine"
-  short_description: "Turn full conversation chaos into one counterintuitive testable opportunity"
-  default_prompt: "Use $confrontational-creativity-engine to process the full conversation through assumption reversal, contradiction fusion, absurd analogy, and cross-industry theft, then return one impossible opportunity with a low-friction test path."
+  display_name: "Critique Confrontational Creative Skill"
+  short_description: "Turn full conversation chaos into one critique-first counterintuitive testable opportunity"
+  default_prompt: "Use $critique-confrontational-creative-skill to critique the weakest default interpretation, then process the full conversation through assumption reversal, contradiction fusion, absurd analogy, and cross-industry theft, and return one impossible opportunity with a low-friction test path."
